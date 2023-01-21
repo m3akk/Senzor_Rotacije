@@ -1,0 +1,30 @@
+@import '@nativescript/theme/css/core.css';
+@import '@nativescript/theme/css/default.css';
+
+Button.-primary {
+  font-size: 18;
+}
+head{
+  text-align: center;
+}
+
+
+.krug1 {
+  background-color: black;
+  height: 200;
+  width: 200;
+  border-radius: 100;
+  opacity: 0.2;
+}
+
+.krug2{
+  background-color: black;
+  height: 50;
+  width: 50;
+  border-radius: 75;
+  opacity: 0.75;
+}
+
+label{
+  text-align: center;
+}
